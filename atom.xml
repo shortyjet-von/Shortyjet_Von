@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ShortyJet.Von's Board]]></title>
+  <link href="http://shortyjet-von.github.com//atom.xml" rel="self"/>
+  <link href="http://shortyjet-von.github.com//"/>
+  <updated>2013-05-30T15:49:01+08:00</updated>
+  <id>http://shortyjet-von.github.com//</id>
+  <author>
+    <name><![CDATA[ShortyJet Von]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Just Say Hello]]></title>
+    <link href="http://shortyjet-von.github.com//blog/2013/05/30/just-say-hello/"/>
+    <updated>2013-05-30T15:35:00+08:00</updated>
+    <id>http://shortyjet-von.github.com//blog/2013/05/30/just-say-hello</id>
+    <content type="html"><![CDATA[<p>This is my first record on octopress. I thinks I would record more of my things here.</p>
+]]></content>
+  </entry>
+  
+</feed>
